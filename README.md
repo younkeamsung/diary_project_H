@@ -52,9 +52,9 @@
 <img src="src/main/resources/static/Gallery/1.security-user/11.로그인.jpg" height=320 width=400/> <img src="src/main/resources/static/Gallery/1.security-user/12.회원가입.jpg" height=320 width=400/></li> <br><br>
 
 <li>관리자 전용 화면<br><br>
-<img src="https://cdn.discordapp.com/attachments/1174256387094761555/1189449028400853082/image.png?ex%253D659e33bb%2526is%253D658bbebb%2526hm%253D9396f099d48a266cb12982c74082c47583f130e027f6a8dc171fc470fff868e2%2526" height=320 width=400/></li> <br><br>
+<img src="src/main/resources/static/Gallery/1.security-user/13.사용자목록1(관리자).jpg" height=320 width=400/></li> <br><br>
 
-<li> 기분에 따른 색을 선택해 일기 작성<br><br><img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189451826064539699/image.png?ex%253D659e3656%2526is%253D658bc156%2526hm%253D7d94bcb88889a6d98355484302113d4f4954007b5cc48e3944a5533a37235d8d%2526" height=320 width=400 /> <img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189451976765870090/image.png?ex%253D659e367a%2526is%253D658bc17a%2526hm%253Da1095a37ac14ef96e7e624f228b75389580dc1f624cafcc66464a9ff848fa68e%2526" height=320 width=400 /></li> <br><br>
+<li> 기분에 따른 색을 선택해 일기 작성<br><br><img src="src/main/resources/static/Gallery/2.DiaryWrite/21.일기 색 선택.jpg" height=320 width=400 /> <img src="src/main/resources/static/Gallery/2.DiaryWrite/24.일기쓰기 화면.jpg" height=320 width=400 /></li> <br><br>
 <li> 캘린더를 통해 사용자가 쓴 일기를 시각적으로 표현 <br><br> <img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189452877555585124/image.png?ex%253D659e3750%2526is%253D658bc250%2526hm%253Daf527156b4d6b7669ff747784e5eef2457724ccd657c2672f39ae8b74252f936%2526" height=320 width=400/></li> <br><br>
 <li> 사용자가 쓴 일기의 감정을 일간, 월간 단위로 분석 <br><br> <img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189452955238281216/image.png?ex%253D659e3763%2526is%253D658bc263%2526hm%253D8ac8c0cfd2d29c41863951b83ca0d9215cc89a31676fa39f2686b34b4781bc9c%2526" height=320 width=400/></li> <br><br>
 <li> '내가 쓴 일기'를 통해 한 눈에 보기 가능 <br><br> <img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189453202626707466/image.png?ex%253D659e379e%2526is%253D658bc29e%2526hm%253D3c48fcce87a16492dc8085add72458cfca51e70580749734d1de1f18d3eef16c%2526" height=320 width=400/></li> <br><br>
