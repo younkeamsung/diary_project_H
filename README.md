@@ -49,7 +49,7 @@
 <img src="src/main/resources/static/Gallery/01.홈.jpg"height=320 width=400 /></li> <br><br>
 
 <li>로그인 및 회원가입<br><br>
-<img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189367046635540490/image.png?ex%253D659de761%2526is%253D658b7261%2526hm%253Df6ca8e6daba310e846323e01d7634a427bcb792eeb6c35731fdd2905e3b4d935%2526" height=320 width=400/> <img src="https://cdn.discordapp.com/attachments/1174256387094761555/1189445625415213176/image.png?ex%253D659e308f%2526is%253D658bbb8f%2526hm%253D06852a82e976c04ef4649a7e5ea0e1d59665e424bc44c8e5bdc96536766fa273%2526" height=320 width=400/></li> <br><br>
+<img src="src/main/resources/static/Gallery/1.security-user/11.로그인.jpg" height=320 width=400/> <img src="src/main/resources/static/Gallery/1.security-user/12.회원가입.jpg" height=320 width=400/></li> <br><br>
 
 <li>관리자 전용 화면<br><br>
 <img src="https://cdn.discordapp.com/attachments/1174256387094761555/1189449028400853082/image.png?ex%253D659e33bb%2526is%253D658bbebb%2526hm%253D9396f099d48a266cb12982c74082c47583f130e027f6a8dc171fc470fff868e2%2526" height=320 width=400/></li> <br><br>
