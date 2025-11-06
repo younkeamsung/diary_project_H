@@ -60,7 +60,7 @@
 <li> '내가 쓴 일기'를 통해 한 눈에 보기 가능 <br><br> <img src="src/main/resources/static/Gallery/4.myDiary/41.내가 쓴 일기 목록.jpg" height=320 width=400/></li> <br><br>
 <li> 일기 공유 기능으로 타 사용자들과 커뮤니케이션 가능 <br><br><img src="src/main/resources/static/Gallery/5.Board/55.공유게시판 목록.jpg" height=320 width=400/> <img src="src/main/resources/static/Gallery/5.Board/56.공유게시판 상세조회.jpg" height=320 width=400/></li> <br><br>
 <li> 필요한 사용자들을 위해 심리 상담 센터 지도 구현 <br><br> <img src="src/main/resources/static/Gallery/6.localAPI/61.심리 상담센터 검색.jpg" height=320 width=400/></li> <br><br>
-<li> 실제 '오늘의 기분, 오늘의 컬러' 책을 활용하여 데이터베이스 구축 <br><br><img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189474326639038544/1.jpeg?ex%253D659e4b4a%2526is%253D658bd64a%2526hm%253D752df8d8b92f578b82f5202554be0cb134204bb00c1441c6f1e13104b4311d50%2526" height=320 width=400/> <img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189474326932619264/2.jpg?ex%253D659e4b4a%2526is%253D658bd64a%2526hm%253Dfc469d63bf368e29b5f6025dc5e865aaf1c66e9d4d0b10b79c02b6e9b53ab650%2526" height=320 width=400/> <img src="https://cdn.discordapp.com/attachments/1182124237423661166/1189474784237588520/image.png?ex%253D659e4bb7%2526is%253D658bd6b7%2526hm%253D4f7a420821b3d6fcd8d89f8ae53d7d6bf0d4a2101d515ba6eaf033bca5ea20ed%2526" height=600 width=800/></li><br><br> </div> 
+<li> 실제 '오늘의 기분, 오늘의 컬러' 책을 활용하여 데이터베이스 구축 <br><br><img src="src/main/resources/static/Gallery/오늘의기분내용.jpg" height=320 width=400/> <img src="src/main/resources/static/Gallery/오늘의기분표현.jpg" height=320 width=400/> <img src="src/main/resources/static/Gallery/오늘의기분표지.jpg" height=600 width=800/></li><br><br> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
